@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sur mon portfolio GitHub, vous découvrirez une variété de projets axés sur Python, SQL, Machine Learning et Data Analytics. 
-Ces projets mettent en valeur mes compétences techniques. 
-J'ai participé à toutes les phases du processus, y compris la collecte de données, le nettoyage, l'exploration, 
-la construction de modèles prédictifs et même la création de visualisations interactives pour communiquer efficacement et clairement les résultats.
+Sur mon portfolio GitHub, vous découvrirez une variété de projets axés sur Python, SQL, Machine Learning et Data Analytics. Ces projets mettent en valeur mes compétences techniques. 
+J'ai participé à toutes les phases du processus, y compris la collecte de données, le nettoyage, l'exploration, la construction de modèles prédictifs et même la création de visualisations interactives pour communiquer efficacement et clairement les résultats.
 Chaque projet met en avant ma maîtrise des outils modernes et mon engagement à transformer des données complexes en solutions pratiques et efficaces.
